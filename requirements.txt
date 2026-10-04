@@ -1,0 +1,14 @@
+# Core Spark framework
+pyspark==3.5.1
+
+# Data analysis and serialization
+pandas>=2.0.0,<2.3.0
+pyarrow>=14.0.0
+polars>=0.20.0
+
+# Data visualization
+plotly>=5.18.0
+
+# Jupyter environment
+ipykernel>=6.25.0
+nbformat>=5.9.0
